@@ -1,5 +1,5 @@
 # Curriculum
-Format: ![Foto de perfil](https://www.facebook.com/photo.php?fbid=1606232336165368&set=a.108965082558775&type=3&theater)
+ ![Foto de perfil](https://github.com/settings/profile)
 
 ## Datos Personales:
   ###### Nombre:
